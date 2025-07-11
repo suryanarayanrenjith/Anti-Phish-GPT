@@ -62,24 +62,25 @@ dist/Anti-Phish-GPT.exe
 
 ## 🔑 First‑Run & Everyday Use
 
-1. **Launch Anti‑Phish‑GPT** — double‑click the Python script (or the packaged `Anti-Phish-GPT.exe`).
-2. **Add your own OpenAI API key**
+1. **Download the app** — head to the project’s [Releases](Releases) section and grab Anti‑Phish‑GPT_Portable.zip.
+2. **Launch Anti‑Phish‑GPT** — double‑click the Python script (or the packaged `Anti-Phish-GPT.exe`).
+3. **Add your own OpenAI API key**
 
    * Click **Set API Key**.
    * Paste your key (it must start with `sk-…`).
    * The app quickly validates the key against the OpenAI endpoint and shows *Success* if it’s accepted.
-3. **Save the key**
+4. **Save the key**
 
    * Click **Save Key**. A file named `config.json` is created **in the same folder as the app**. You only need to do this once per machine or whenever you rotate keys.
-4. **Analyse a URL**
+5. **Analyse a URL**
 
    * Paste any link into the **URL** field.
    * Click **Analyze**.
    * The **Verdict**, **Confidence**, and a short **Rationale** appear instantly.
-5. **Start over**
+6. **Start over**
 
    * Click **Clear** to wipe the fields and run another check.
-6. **Update / Remove the key**
+7. **Update / Remove the key**
 
    * To change the key, repeat step 2 and then click **Save Key** again—`config.json` will be overwritten.
    * To run without a saved key, simply delete `config.json`.
