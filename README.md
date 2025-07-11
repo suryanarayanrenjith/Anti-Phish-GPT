@@ -62,7 +62,7 @@ dist/Anti-Phish-GPT.exe
 
 ## 🔑 First‑Run & Everyday Use
 
-1. **Download the app** — head to the project’s [Releases](Releases) section and grab Anti‑Phish‑GPT_Portable.zip.
+1. **Download the app** — head to the project’s [Releases](releases) section and grab Anti‑Phish‑GPT_Portable.zip.
 2. **Launch Anti‑Phish‑GPT** — double‑click the Python script (or the packaged `Anti-Phish-GPT.exe`).
 3. **Add your own OpenAI API key**
 
